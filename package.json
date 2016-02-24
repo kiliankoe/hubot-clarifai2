@@ -1,16 +1,16 @@
 {
   "name": "hubot-clarifai2",
-  "description": "Hubot script for clarifai",
-  "version": "1.0.1",
+  "description": "hubot script for clarifai",
+  "version": "1.0.2",
   "author": "Kilian Koeltzsch <me@kilian.io>",
   "license": "MIT",
   "keywords": "hubot,hubot-scripts,clarifai,image,recognition",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-clarifai2.git"
+    "url": "git://github.com/kiliankoe/hubot-clarifai2.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-clarifai2/issues"
+    "url": "https://github.com/kiliankoe/hubot-clarifai2/issues"
   },
   "dependencies": {
     "clarifai": "^0.4.0"
