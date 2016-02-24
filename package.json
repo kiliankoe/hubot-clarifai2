@@ -1,7 +1,7 @@
 {
   "name": "hubot-clarifai2",
   "description": "Hubot script for clarifai",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Kilian Koeltzsch <me@kilian.io>",
   "license": "MIT",
   "keywords": "hubot,hubot-scripts,clarifai,image,recognition",

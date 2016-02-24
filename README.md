@@ -21,6 +21,6 @@ Then add **hubot-clarifai2** to your `external-scripts.json`:
 ## Sample Interaction
 
 ```
-user1>> hubot hello
-hubot>> hello!
+user1>> hubot what do you see here http://i.imgur.com/HRr2vgs.jpg
+hubot>> My money's on meat, beef, no person, steak, pork, blood, food, bloody, slice, butcher, sirloin, fillet, chop, red meat, cow, cut, prime, ham, uncooked, preparation
 ```
